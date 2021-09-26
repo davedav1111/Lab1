@@ -31,7 +31,7 @@ This is a link to return to the top: [top](#david-lius-user-page)
 This is a link to my README file: [README](README.md)
 
 This is my favorite chess opening. 
-![Sicilian Defense](https://images.app.goo.gl/DC3RJ4uxZd8h3arx5)
+![Sicilian Defense](SicilianDefense.png)
 
 My hobbies are: 
 - Working out
